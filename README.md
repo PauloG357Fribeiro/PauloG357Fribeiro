@@ -107,7 +107,7 @@ Criamos **sites profissionais** e personalizados para empresas de pequeno e méd
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-fernandes-ribeiro-811bb1238/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulog034/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulog25.comercial@gmail.com)
 
 </div>
