@@ -26,7 +26,7 @@
 
 ### 👨‍💻 **Quem sou eu?**
 Olá! 👋 Sou **Paulo Gabriel**, estudante de **Sistemas de Informação** e apaixonado por **Segurança da Informação**, **Ethical Hacking** e **Desenvolvimento Open Source**.  
-Tenho experiência em projetos acadêmicos e portfólio envolvendo **React, Node.js, MongoDB, Java com Spring Boot e PostgreSQL**.
+Tenho experiência em projetos acadêmicos e portfólio envolvendo **React, Node.js, MongoDB, Java com Spring Boot, PostgreSQL e Python**.
 
 </td>
 <td width="50%">
@@ -48,9 +48,9 @@ Tenho experiência em projetos acadêmicos e portfólio envolvendo **React, Node
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,cs,html,css,git,github,vscode&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,cs,html,css,git,github,vscode&theme=light">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,cs,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
 </picture>
 
 </div>
