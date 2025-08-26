@@ -48,12 +48,13 @@ Tenho experiência em projetos acadêmicos e portfólio envolvendo **React, Node
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=light">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgresql,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgresql,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,js,react,nodejs,mongodb,python,cs,html,css,git,github,vscode" alt="Tech Stack" />
 </picture>
 
 </div>
+
 
 ---
 
